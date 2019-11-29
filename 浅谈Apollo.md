@@ -92,7 +92,7 @@ const reducer(state, action) => {
 
    4. 本地UI进行积极更新
 
-      ![image-20191129191116145](/home/john/.config/Typora/typora-user-images/image-20191129191116145.png)
+      ![image-20191129191116145](浅谈Apollo.assets/image-20191129191116145.png)
 
 ### Apollo一把梭
 
