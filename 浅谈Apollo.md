@@ -84,7 +84,7 @@ const reducer(state, action) => {
 
    1. state高度嵌套，查询麻烦
 
-      ![image-20191129190733856](/home/john/.config/Typora/typora-user-images/image-20191129190733856.png)
+      ![image-20191129190733856](浅谈Apollo.assets/image-20191129190733856-1575030513806.png)
 
    2. 缓存信息需要重复搬砖
 
@@ -103,11 +103,11 @@ const reducer(state, action) => {
 
 From
 
-![image-20191129191841157](/home/john/.config/Typora/typora-user-images/image-20191129191841157.png)
+![image-20191129191841157](浅谈Apollo.assets/image-20191129191841157-1575030510560.png)
 
 To
 
-![image-20191129191929538](/home/john/.config/Typora/typora-user-images/image-20191129191929538.png)
+![image-20191129191929538](浅谈Apollo.assets/image-20191129191929538-1575030504360.png)
 
 3. 较为便捷的实现积极UI
 
