@@ -6,7 +6,7 @@
 
 在规定的schema下，一次查询所需的所有的内容。
 
-![image-20191126230252099](/home/john/.config/Typora/typora-user-images/image-20191126230252099.png)
+<img src="./浅谈Apollo.assets/image-20191129201834141.png" alt="image-20191129201834141" style="zoom: 67%;" />
 
 关于GraphQL的详情以及在后端的应用可以查看兔兔的《从GraphQL到Prisma》。
 
@@ -14,7 +14,7 @@
 
 1. 查询数据，接收返回值
 
-![image-20191126232220556](/home/john/.config/Typora/typora-user-images/image-20191126232220556.png)
+![image-20191129201726660](./浅谈Apollo.assets/image-20191129201726660.png)
 
 对应的代码
 
@@ -273,4 +273,3 @@ const updateAddStar = (
             )}
 </Mutation>
 ```
-
